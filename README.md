@@ -28,10 +28,10 @@ When I'm not coding, you'll find me mentoring students in STEM, contributing to 
 A web app that helps users discover cocktail recipes using the **CocktailDB API**. Built with **React**, it allows users to search for drinks, filter by ingredients, and explore new recipes in a user-friendly interface.  
 [View Project](https://arelyskywalker.dev/cocktail)
 
-#### [Que-Aburrido](https://github.com/ArelySkywalker/Que-Aburrido)  
+#### [Que-Aburrido](https://github.com/ArelySkywalker/Que-Aburrido)  (In Progress)
 Que-Aburrido is an exciting, full-stack web application designed to help users discover fun activities when they’re bored, using the Bored API. Built with the MERN stack (MongoDB, Express, React, Node.js), this project provides a seamless user experience with both frontend and backend integration.
 
-#### [New ArelySkywalker website](https://github.com/ArelySkywalker/ArelySkywalker-website)  
+#### [New ArelySkywalker website](https://github.com/ArelySkywalker/ArelySkywalker-website)  (In Progress)
 I am currently rebuilding my personal portfolio website, ArelySkywalker.dev, to explore and learn the Svelte framework. The goal is to create a modern, fast, and responsive site using Tailwind CSS and DaisyUI for a clean and accessible design system.
 
 ---
