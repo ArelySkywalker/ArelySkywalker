@@ -36,6 +36,11 @@ I am currently rebuilding my personal portfolio website, ArelySkywalker.dev, to 
 
 ---
 
+### 🚀 My GitHub Stats
+![Arely's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArelySkywalker&show_icons=true&theme=radical&hide=contribs)
+
+---
+
 ### 👩‍🏫 Community Involvement
 
 - **Mentor & Judge**, M.E.S.A. (Mathematics, Engineering, and Science Achievement) Club
