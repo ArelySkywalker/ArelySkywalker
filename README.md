@@ -16,7 +16,7 @@ When I'm not coding, you'll find me mentoring students in STEM, contributing to 
 ### 🛠️ Technologies & Tools
 
 - **Frontend**: React, Redux, JavaScript (ES6+), TypeScript, Slvete, Vite, HTML5, CSS/Sass
-- **Backend**: Node.js, Python, PHP, AWS (Lambda, S3, CloudFront, EC2), CDK
+- **Backend**: Node.js, Kotlin, Python, PHP, AWS (Lambda, S3, CloudFront, EC2), CDK
 - **DevOps**: Docker, Jenkins, Git, Terraform
 - **Other Tools**: Webpack, Firebase, MongoDB
 
