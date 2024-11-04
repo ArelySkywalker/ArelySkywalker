@@ -43,9 +43,9 @@ I am currently rebuilding my personal portfolio website, ArelySkywalker.dev, to 
 
 ### 👩‍🏫 Community Involvement
 
-- **Mentor & Judge**, M.E.S.A. (Mathematics, Engineering, and Science Achievement) Club
-- **STEM Instructor**, Latino Youth Summit at the University of Wisconsin
-- **Member**, Techqueria, Women Who Code NYC, Latinos@AWS
+- **Mentor & Judge:** M.E.S.A. (Mathematics, Engineering, and Science Achievement) Club
+- **STEM Instructor:** Latino Youth Summit at the University of Wisconsin
+- **Member:** Techqueria, Women Who Code NYC, Latinos@AWS
 
 ---
 
